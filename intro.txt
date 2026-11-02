@@ -1,0 +1,8 @@
+my name is lakshy kaura
+i am currently study in newton school of technology at sonipat
+i love to play badminton ,cricket and football as well
+skills:html,css,python,currently learning javascript
+
+what I wnat?
+one index.html file which has html and css
+it should have the whole portfolio
